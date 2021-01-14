@@ -1,6 +1,6 @@
 ### Let us get in touch 👋
 - <guohouzuo@gmail.com>, <guohouzuo@hotmail.com>
-- <i@ard.how>, <i@houzuo.net>, <i@howard.gg>, <i@hz.gl>
+- <i@houzuo.net>, <i@howard.gg>, <i@hz.gl>
 
 ### More links 🌐
 - [Blogger](https://allstarnix.blogspot.com/) [Docker Hub](https://hub.docker.com/u/hzgl) [Facebook](https://www.facebook.com/HouzuoGuo) [Gravatar](https://en.gravatar.com/howardguo)
@@ -16,6 +16,6 @@
 - IANA private enterprise number: 1.3.6.1.4.1.52535
 - IANA TRIP ITAD number: 1988
 
-Thank you for your visit, have a nice day! "HZGL"
+Thank you for your visit, have a nice day!
 
-<http://ard.how> <http://houzuo.net> <http://howard.gg> <http://hz.gl>
+<http://houzuo.net> <http://howard.gg> <http://hz.gl>
