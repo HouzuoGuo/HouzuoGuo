@@ -8,8 +8,8 @@
 - [Steemit](https://steemit.com/@ghz) [Telegram Messenger](https://t.me/howardg) [Twitch](https://www.twitch.tv/howardgg1) [Twitter](https://twitter.com/hzguo)
 
 ### Get in touch via satellite 🛰️
+- Iridium: +881 632 669 939
 - Inmarsat: +870 776 258 036
-- Garmin inReach: guohouzuo@inreach.garmin.com (inReach exclusive, this is not an Email)
 
 ### Geeky stuff 🤓
 - GPG key fingerprint: 4096R/50FAB38C 60BD 93B6 F0C4 FCC7 1735 08D4 4132 7BD9 50FA B38C
