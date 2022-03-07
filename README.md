@@ -7,7 +7,7 @@
 - [Instagram](https://www.instagram.com/guo_howard) [Keybase](https://keybase.io/hguo) [LinkedIn](https://www.linkedin.com/in/howard-guo-2b1b6227) [Medium](https://medium.com/@hzgl)
 - [Steemit](https://steemit.com/@ghz) [Telegram Messenger](https://t.me/howardg) [Twitch](https://www.twitch.tv/howardgg1) [Twitter](https://twitter.com/hzguo)
 
-### Get in touch via satellite 🛰️
+### Get in touch via satellite📡
 - Iridium: +881 632 669 939
 - Inmarsat: +870 776 258 036
 
