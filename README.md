@@ -8,7 +8,6 @@
 - [Steemit](https://steemit.com/@ghz) [Telegram Messenger](https://t.me/howardg) [Twitch](https://www.twitch.tv/howardgg1) [Twitter](https://twitter.com/hzguo)
 
 ### Get in touch via satellite📡
-- Iridium: +881 632 669 939
 - Inmarsat: +870 776 258 036
 
 ### Geeky stuff 🤓
