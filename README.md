@@ -9,7 +9,7 @@
 
 ### Get in touch over radio📡
 - Inmarsat: +870 776 258 036
-- Amateur radio callsign: EI9LC
+- Amateur radio callsign: EI9LC [(on QRZ.com)](https://www.qrz.com/db/EI9LC) [(on aprs.fi)](https://aprs.fi/info/a/EI9LC)
 
 ### Geeky stuff 🤓
 - GPG key fingerprint: 4096R/50FAB38C 60BD 93B6 F0C4 FCC7 1735 08D4 4132 7BD9 50FA B38C
@@ -19,3 +19,5 @@
 Thank you for your visit, have a nice day!
 
 <http://houzuo.net> <http://howard.gg> <http://hz.gl>
+
+Search keyword: "HZGL"
