@@ -8,7 +8,6 @@
 - [Steemit](https://steemit.com/@ghz) [Telegram Messenger](https://t.me/howardg) [Twitch](https://www.twitch.tv/howardgg1) [Twitter](https://twitter.com/hzguo)
 
 ### Get in touch over radio📡
-- Inmarsat: +870 776 258 036
 - Amateur radio callsign: EI9LC [(on QRZ.com)](https://www.qrz.com/db/EI9LC) [(on aprs.fi)](https://aprs.fi/info/a/EI9LC) [Spreadsheet Logbook](https://docs.google.com/spreadsheets/d/1UZxqtD8TJPcD5fb9qQ93wwticB4Jvnzh1j4fRoDdGCM/edit?usp=sharing)
 - [Amateur radio ID](https://www.radioid.net/database/view?callsign=EI9LC): DMR 2720333 and NXDN 3769
 
